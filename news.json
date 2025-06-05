@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Breaking News: Major Tech Company Announces New Product",
+        "image": "miyio1.JPG",
+        "content": "In a surprising move, a leading tech company has unveiled its latest product, which promises to revolutionize the industry. The announcement was made at a press conference held in Silicon Valley.",
+        "author": "Jane Doe"
+    },
+    {
+        "title": "Local Sports Team Wins Championship",
+        "image": "miyio2.JPG",
+        "content": "The local sports team clinched the championship title last night after a thrilling match that kept fans on the edge of their seats. The victory parade is scheduled for this weekend.",
+        "author": "John Smith"
+    }
+]
